@@ -9,5 +9,5 @@ MoodLens is a Python project for real-time facial emotion recognition using YOLO
 - Visualization of predictions and confusion matrix
 
 ## Sample Results
-![Sample Prediction](results.png)
+![Training Curves](results.png)
 ![Confusion Matrix](confusion_matrix.png)
